@@ -1,0 +1,4 @@
+Study Case
+1. Sebuah tim pemburu ingin memburu burung di hutan. Tim dibagi menjadi 3 bagian, yaitu bagian penembak burung, penangkap burung dan pengumpul burung ke dalam keranjang. Tim dibagi agar dapat mempercepat pekerjaan, jika penembak berhasil menembak burung maka penangkap burung akan langsung menangkap burung dan menyerahkannya ke pengumpul burung agar dikumpulkan ke dalam keranjang. Tim akan bekerja secara parallel dan bukan serial. 
+
+2. Sebuah kedai minuman menjual kopi dan susu dan tidak menerima pesanan air. Tim penjual dibagi menjadi 3 bagian yaitu kasir, barista dan pengantar pesanan ke pelanggan. Kasir menerima pesanan pelanggan yang selanjutnya akan memberitahukan pesanan pelanggan kepada barista. Selanjutnya barista akan membuatkan pesanan pelanggan, setelah barista telah selesai membuatkan pesanan maka pengantar pesanan akan mengantarkan pesanan pelanggan. Tim akan bekerja secara parallel dan bukan serial.  
